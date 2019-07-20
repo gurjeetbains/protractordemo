@@ -1,6 +1,6 @@
 # protractordemo
 Protractor demo using Jasmine as a test framework
-Run -- **npm install **
+Run -- **npm install**
 
 Run -- **npm run webdriver-update**
 
